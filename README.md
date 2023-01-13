@@ -9,9 +9,11 @@ Multithreaded DOS tool written in ruby.
 
 Gems: `net/http`, `thread` and `optparse`
 
-1. gem install net-http
-2. gem install thread
-3. gem install optparse
+```
+gem install net-http
+gem install thread
+gem install optparse
+```
 
 # Disclaimer
 
